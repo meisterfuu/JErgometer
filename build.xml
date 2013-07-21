@@ -8,8 +8,10 @@
 	<property name="program.version"    value="0.8"/>
 
 	<!-- Main class. -->
-	<property name="main.class"         value="org.jergometer.Jergometer"/>
-
+	<!-- <property name="main.class"         value="org.jergometer.Jergometer"/>  -->
+	<property name="main.class"         value="org.jergometer.JergometerTestConsole"/> 
+	
+	
 	<!-- File names. -->
 	<property name="start.sh"           value="jergometer"/>
 	<property name="start.bat"          value="jergometer.bat"/>
